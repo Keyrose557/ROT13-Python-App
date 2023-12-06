@@ -9,7 +9,7 @@ This application provides an interface for encoding and decoding text using the 
 
 ## Student Notes
 
-In this section, I share a collection of personal notes and insights gathered during the development of the ROT Encoder/Decoder App.They offer a broad behind-the-scenes glimpse into the process I used for my academic project 🤓. Feel free to explore these notes.The application and source code are in the `dist` folder.
+In this section, I share my notes and insights gathered during the development of the ROT Encoder/Decoder App.They offer a broad behind-the-scenes glimpse into the process I used for my academic project 🤓. Feel free to explore these notes.The application and source code are in the `dist` folder.
 
 ### Goals
 
