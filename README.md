@@ -1,7 +1,7 @@
 
 # ROT Cipher App
 
-This application provides an intuitive interface for encoding and decoding text using the ROT13 cipher, a straightforward letter substitution cipher that substitutes a letter with the 13th letter following it in the alphabet. Developed in Python and utilizing the Tkinter library for its graphical user interface, the app exemplifies Python's flexibility in managing string manipulations and crafting GUI components. Additionally, it features an adjustable shift function, allowing users to select their desired substitution shift value, enhancing interaction and utility.
+This application provides an interface for encoding and decoding text using the ROT13 cipher, a straightforward letter substitution cipher that substitutes a letter with the 13th letter following it in the alphabet. Developed in Python and utilizing the Tkinter library for its graphical user interface, the app demonstrates Python's flexibility in managing string manipulations and crafting GUI components. Additionally, it features an adjustable shift function, allowing users to select their desired substitution shift value, enhancing interaction and utility.
 
 ![Rot App Demo](/media/rot_test.gif)
 
@@ -9,7 +9,13 @@ This application provides an intuitive interface for encoding and decoding text 
 
 ## Student Notes
 
-In this section, I share a collection of personal notes and insights gathered during the development of the ROT Encoder/Decoder App.They offer a broad behind-the-scenes glimpse into the process I used for my academic project 🤓. Feel free to explore these notes.The application, source code, and a jupyter notebook references are in the `dist` folder.
+In this section, I share a collection of personal notes and insights gathered during the development of the ROT Encoder/Decoder App.They offer a broad behind-the-scenes glimpse into the process I used for my academic project 🤓. Feel free to explore these notes.The application and source code are in the `dist` folder.
+
+### Goals
+
+1. Create a basic App GUI
+2. Use at lease one custom function
+3. Using input from the app, have it do something
 
 ---
 
@@ -87,7 +93,7 @@ Its always a good idea to ensure you have a functioning environments for your pr
 
 ---
 
-#### You Ready to start coding your Python Project :)
+#### Ready to start coding the Python Project :)
 
 Resource: [Python for Everybody](https://eng.libretexts.org/Bookshelves/Computer_Science/Programming_Languages/Python_for_Everybody_(Severance))
 
@@ -125,8 +131,6 @@ After demoing the App, revise the App and explore on making it better.
 ---
 
 ### Tips
-
-If you followed this outline, here are some tips that have helped me as a student.
 
 #### Jupyter Notebooks
 
